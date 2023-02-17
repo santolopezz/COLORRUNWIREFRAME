@@ -1,0 +1,105 @@
+.boro{
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: -30px;
+     
+}
+
+.annual{
+    display: block;
+    font-family: 'Happy Monkey', cursive;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.color{
+    margin-bottom: -100px;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 50px;
+    
+}
+
+.btn{
+    border: 3px solid;
+    margin-left:auto;
+    margin-right: auto ;
+    margin-top: 3px;
+    display: block;
+    border-radius: 10px;
+    width: 190px;
+    height: 46px;
+    font-family: 'Happy Monkey', cursive;
+    padding: 5px;
+
+}
+
+.row5{
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+    margin-top: 15px;
+    font-size: larger;
+  
+}
+
+.Cricle{
+    border: 5px solid black;
+    border-radius: 50%;
+    width: 200px;
+    height: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.text{
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+    font-size: 30px;
+    margin: 5px;
+
+}
+
+.text2{
+    text-align: center;
+    font-family: 'Happy Monkey' cursive;
+    font-size: 15px;
+
+}
+
+.btn2{
+    border: 3px solid black;
+    background: transparent;
+    border-radius: 28px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    display: block;
+    font-family: 'Happy Monkey', cursive;
+    padding: 5px;
+    width: 190px;
+    height: 67px;
+}
+    
+:root {
+--Black: Black;
+--Black: Black;
+--white: white;
+--white: white;
+--white: white;
+}
+.container {
+color: var(--dark-blue);
+font-size: 20px;
+font-weight: bold;
+min-height: 100vh;
+background-color: var(--yellow);
+}
+
+.row {
+border: 1px solid var(--dark-blue);
+min-height: 50px;
+}
